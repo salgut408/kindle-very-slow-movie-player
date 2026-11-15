@@ -1,0 +1,6 @@
+movies/
+*.mp4
+*.mkv
+frames/
+*.log
+.DS_Store
